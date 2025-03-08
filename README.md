@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **BackEnd**
 
-- 👨‍💻 All of my projects are available at [https://coder-varun.netlify.app/](https://coder-varun.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://coder-varun-three-self.vercel.app/)
 
 - 💬 Ask me about **FrontEnd**
 
